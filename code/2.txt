@@ -1,0 +1,27 @@
+Tentative de connexion...
+Connecte au reseau WiFi !
+Donnees recues...
+Date: 
+2020-03-03 12:00:00
+main_temp: 
+283.26
+Date: 
+277.93
+feels_like: 
+283.26
+main_temp_min: 
+283.26
+main_temp_max: 
+1007
+main_pressure: 
+1007
+main_sea_level: 
+1008
+main_grnd_level: 
+59
+main_humidity: 
+0
+main_temp_kf: 
+Deconnexion.
+
+

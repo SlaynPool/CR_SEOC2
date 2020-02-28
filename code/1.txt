@@ -1,0 +1,3 @@
+Humidity: 45.00%  Temperature: 23.70C 74.66F  Heat index: 23.30C 73.94F
+Humidity: 45.00%  Temperature: 23.70C 74.66F  Heat index: 23.30C 73.94F
+Humidity: 45.00%  Temperature: 23.70C 74.66F  Heat index: 23.30C 73.94F
